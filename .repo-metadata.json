@@ -1,0 +1,5 @@
+{
+    "github.com/codyoss/bar/baz/apiv1": {
+        "description": "The really cool Baz API"
+    }
+}
